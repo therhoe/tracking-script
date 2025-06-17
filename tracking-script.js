@@ -4,7 +4,7 @@
     // Config
     const TRACKING_LIMIT = 100;
     const TRACKING_STORAGE_KEY = 'customTrackingVisitorCount';
-    const ENDPOINT = 'https://your-endpoint.com/track'; // Replace with your API endpoint if needed
+    const ENDPOINT = 'https://xpsq-sdbm-bcmj.n7e.xano.io/api:C4HxN1_-/track-events';
 
     // Utility: Get or Init Visitor Count
     function getVisitorCount() {
